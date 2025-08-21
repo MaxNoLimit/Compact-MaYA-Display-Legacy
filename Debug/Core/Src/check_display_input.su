@@ -1,0 +1,7 @@
+../Core/Src/check_display_input.c:17:6:calibrateDisplay	16	static
+../Core/Src/check_display_input.c:33:6:displayInputCheck	120	static
+../Core/Src/check_display_input.c:160:6:waitUntilTapAnywhere	8	static
+../Core/Src/check_display_input.c:166:6:isPlaying	16	static
+../Core/Src/check_display_input.c:175:6:setPlayingStatus	8	static
+../Core/Src/check_display_input.c:180:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/check_display_input.c:203:6:holdUntilDone	4	static

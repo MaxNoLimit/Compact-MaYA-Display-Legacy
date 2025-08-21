@@ -1,0 +1,9 @@
+../Core/Src/simpleDisplay.c:10:6:pageSetup	1
+../Core/Src/simpleDisplay.c:13:6:firstPage	2
+../Core/Src/simpleDisplay.c:43:6:menuPage	2
+../Core/Src/simpleDisplay.c:66:6:message	1
+../Core/Src/simpleDisplay.c:70:6:messageDetail	1
+../Core/Src/simpleDisplay.c:74:6:clearMessage	1
+../Core/Src/simpleDisplay.c:79:6:playingPage	1
+../Core/Src/simpleDisplay.c:98:6:calibratePage	2
+../Core/Src/simpleDisplay.c:120:6:settingsPage	3

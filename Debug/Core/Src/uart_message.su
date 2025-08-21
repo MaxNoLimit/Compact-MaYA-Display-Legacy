@@ -1,0 +1,5 @@
+../Core/Src/uart_message.c:19:6:sendDebugMessage	272	static
+../Core/Src/uart_message.c:29:6:sendSpecifiedMessage	16	static
+../Core/Src/uart_message.c:33:11:receivedMessage	24	static
+../Core/Src/uart_message.c:46:6:flushUART	8	static
+../Core/Src/uart_message.c:50:7:receivedMessageBuffer	24	static
